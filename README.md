@@ -2,7 +2,7 @@
 
 Welcome to my **WordPress Developer Portfolio**! I’m **Saranya V**, a passionate developer with **2 years** of hands-on experience in creating custom plugins, theme customization, and optimizing websites for speed, security, and user experience. Check out my journey and work below!
 
-![Header Image](https://your-banner-image-link.com)  <!-- Replace with your image link -->
+![Header Image](https://images.unsplash.com/photo-1560770410-3f6484b9a3f4)
 
 ---
 
