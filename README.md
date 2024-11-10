@@ -10,8 +10,7 @@ Welcome to my **WordPress Developer Portfolio**! I’m **Saranya V**, a passiona
 1. [👩‍💻 About Me](#about-me)
 2. [🛠 Technologies](#technologies)
 3. [📦 Projects](#projects)
-4. [⚙️ Installation Instructions](#installation-instructions)
-5. [📞 Contact](#contact)
+4. [📞 Contact](#contact)
 
 ---
 
@@ -88,28 +87,12 @@ A WooCommerce plugin that allows customers to personalize products in real-time,
 
 ---
 
-## ⚙️ Installation Instructions
-
-To run my portfolio locally, just follow these simple steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/your-repository-name.git
-    ```
-
-2. **Open the portfolio**:
-    - Navigate to the `index.html` file and open it in your web browser.
-    - Voilà! Your local version of my portfolio will be up and running.
-
----
-
 ## 📞 Contact
 
 Feel free to reach out for collaboration, feedback, or opportunities. I’d love to hear from you!
 
 - 📧 **Email**: [saranyavenkatesan23@gmail.com](mailto:saranyavenkatesan23@gmail.com)
 - 💼 **LinkedIn**: [Saranya V LinkedIn](https://linkedin.com)
-- 📱 **Phone**: 8668143461
 
 ---
 
