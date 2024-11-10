@@ -92,8 +92,7 @@ A WooCommerce plugin that allows customers to personalize products in real-time,
 Feel free to reach out for collaboration, feedback, or opportunities. I’d love to hear from you!
 
 - 📧 **Email**: [saranyavenkatesan23@gmail.com](mailto:saranyavenkatesan23@gmail.com)
-- 💼 **LinkedIn**: [Saranya V LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/saranya-v-03ab91244))
-
+- 💼 **LinkedIn**: [Saranya V LinkedIn](https://www.linkedin.com/in/saranya-v-03ab91244)
 ---
 
 ## 🎓 License
